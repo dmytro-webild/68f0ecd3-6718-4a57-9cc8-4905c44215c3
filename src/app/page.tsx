@@ -96,7 +96,7 @@ export default function LandingPage() {
         { id: "6", name: "Veg Kebab Platter", price: "₹300", imageSrc: "http://img.b2bpic.net/free-photo/high-angle-indian-food-spices_23-2148747648.jpg" },
       ]}
       title="Our Signature Dishes"
-      description="Explore our curated menu of North Indian delights."
+      description="Explore our curated menu of North Indian delights, where every dish is crafted with aromatics and spices that excite the senses."
     />
   </div>
 
