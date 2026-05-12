@@ -45,7 +45,7 @@ export default function LandingPage() {
       background={{ variant: "gradient-bars" }}
       title="Authentic North Indian Flavors"
       description="Experience the warmth of traditional North Indian cuisine at Terrace House. From outdoor seating under the stars to cozy indoor vibes, every meal is a celebration of heritage."
-      buttons={[{ text: "View Menu", href: "#menu" }, { text: "Reserve Table", href: "#contact" }]}
+      buttons={[{ text: "View Menu", href: "#menu" }, { text: "Book Your Table", href: "#contact" }]}
       imageSrc="http://img.b2bpic.net/free-photo/active-conversation-evening-time-friends-have-dinner-gorgeous-outdoor-place_146671-14434.jpg"
       mediaAnimation="slide-up"
       avatars={[
